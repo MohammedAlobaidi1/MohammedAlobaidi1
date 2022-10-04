@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedAlobaidi1
 - 👀 I’m interested in project management using agile methodology
-- 💞️ I’m looking to collaborate on buidling software projects using scrum
+- 💞️ I’m looking to collaborate on buidling & developing software projects using scrum
 - 📫 How to reach me moh.haneen@gmail.com
 
 <!---
